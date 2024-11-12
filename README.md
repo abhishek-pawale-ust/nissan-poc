@@ -3,7 +3,7 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--nissan-poc--abhishek-pawale-ust.aem.page/
-- Live: https://main--nissan-poc--abhishek-pawale-ust/
+- Live: https://main--nissan-poc--abhishek-pawale-ust.aem.live/
 
 ## Installation
 
